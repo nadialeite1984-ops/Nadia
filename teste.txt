@@ -1,2 +1,6 @@
 
 Ola,sou a Nadia.
+git status - demostra o estado do projeto
+git add . - adiciona todos os ficheiros
+git commit - m " mensagem" ->> comenta todos os ficheiros adicionados ou modificados
+git push ||origin||
